@@ -1,5 +1,5 @@
 let Title = "bujjigadu";
-let cast = ["prabhas", "trisha", "sudha", "ahuthiprasad"];
+let cast = ["prabhas","ramya", "trisha", "sudha", "ahuthiprasad"];
 let aboutMovie = () => {
   console.log("super hit movie");
 };
